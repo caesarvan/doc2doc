@@ -1,0 +1,8 @@
+python-pptx==1.0.2
+lxml
+pillow
+pyyaml
+numpy
+matplotlib
+opencv-python-headless
+pymupdf
